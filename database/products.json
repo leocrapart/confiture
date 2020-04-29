@@ -1,0 +1,90 @@
+{
+  "confiture": {
+    "banane": {
+      "nom": "confiture banane",
+      "id": "banane",
+      "prix": 12,
+      "img_src": "confiture_banane.jpg",
+      "description": "la confiture de fraise miam miam goulou goulou",
+      "composition": "100% test",
+      "poids": {
+        "poids1": "240g",
+        "poids2": "0g",
+        "poids3": "0g"
+      },
+      "active": true
+    },
+    "golog": {
+      "nom": "Confiture de golog",
+      "id": "golog",
+      "prix": 4.3,
+      "img_src": "confiturefraisebis-compressed.jpg",
+      "description": "afzfzefrezrf",
+      "composition": "ferferfeerfe",
+      "poids": {
+        "poids1": "340g",
+        "poids2": "240g",
+        "poids3": "0g"
+      },
+      "active": true
+    },
+    "framboise": {
+      "nom": "gegegre",
+      "id": "framboise",
+      "prix": 6,
+      "img_src": "confiture_framboise.jpg",
+      "description": "affrzfz",
+      "composition": "fezfzefzf",
+      "poids": {
+        "poids1": "0g",
+        "poids2": "0g",
+        "poids3": "0g"
+      },
+      "active": true
+    },
+    "figues": {
+      "nom": "confiture de figues",
+      "id": "figues",
+      "prix": 5.6,
+      "img_src": "confiture_figues.jpg",
+      "description": "Confiture fauohfregzergzergzerg",
+      "composition": "zergzegezgzergzerg",
+      "poids": {
+        "poids1": "340g",
+        "poids2": "0g",
+        "poids3": "0g"
+      },
+      "active": true
+    }
+  },
+  "confiserie": {
+    "coeur": {
+      "nom": "sucette coeur",
+      "id": "coeur",
+      "prix": 1,
+      "img_src": "sucette_coeur.jpg",
+      "description": "la confiture d'abricot miam miam goulou goulou",
+      "composition": "5%",
+      "poids": {
+        "poids1": "240g",
+        "poids2": "0g",
+        "poids3": "0g"
+      },
+      "active": true
+    },
+    "pdf": {
+      "nom": "Pate de fruit",
+      "id": "pdf",
+      "prix": 12,
+      "img_src": "pate_de_fruit.jpg",
+      "description": "la sucette qui t'arrache la tete",
+      "composition": "100%",
+      "poids": {
+        "poids1": "340g",
+        "poids2": "230g",
+        "poids3": "0g"
+      },
+      "active": true
+    }
+  }
+}
